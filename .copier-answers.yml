@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier
+_commit: f38005d
+_src_path: gh:meltano/edk
+admin_name: Stephane Burwash
+cli_prefix: fal
+extension_description: A meltano utility extension for fal that wraps the `fal` command.
+extension_id: fal-ext
+extension_name: fal
+extension_name_lower: fal
+library_name: fal_ext
+wrapper_target_name: fal
